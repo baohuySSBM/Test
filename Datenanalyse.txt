@@ -1,0 +1,3 @@
+•	Datenanalyse & Bereinigung von Kaggle-Datensätzen mit Python: Pandas, NumPy
+•	Spielentwicklung Python: „Battle of Warship
+•	Algorithmus-Programmierung Python: Inventory-Sort-Algorithmus
